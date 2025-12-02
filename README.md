@@ -30,14 +30,14 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 
 ## Contenido del repositorio
 - Archivo .pbix con el dashboard completo
-- Datos en formato CSV
-- Imágenes utilizadas en el informe
+- Capturas de pantalla del dashboard y del modelo de datos
+- Archivos README y LICENSE
 
 ## Cómo usarlo
 1. Descargar el archivo `.pbix`.
 2. Abrir el proyecto con Power BI Desktop.
-3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query.
-4. Refrescar los datos para visualizar el dashboard.
+3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query (REVISAR).
+4. Refrescar los datos para visualizar el dashboard (revisar).
 
 <!-- LICENSE -->
 ## Licencia
