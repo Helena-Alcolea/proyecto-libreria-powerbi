@@ -39,7 +39,23 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query.
 4. Refrescar los datos para visualizar el dashboard.
 
+<!-- LICENCIA -->
+## License
 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACTO -->
+## Contact
+
+**Javier Requena** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
+
+Project Link: [https://github.com/Helena-Alcolea/Proyecto_Libreria](https://github.com/Helena-Alcolea/Proyecto_Libreria)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
