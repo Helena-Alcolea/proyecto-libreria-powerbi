@@ -49,13 +49,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACTO -->
-## Contact
+## Contacto
 
-**Javier Requena** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
+**Helena Alcolea Ruiz** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
 
 Project Link: [https://github.com/Helena-Alcolea/Proyecto_Libreria](https://github.com/Helena-Alcolea/Proyecto_Libreria)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
