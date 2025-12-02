@@ -39,16 +39,16 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query.
 4. Refrescar los datos para visualizar el dashboard.
 
-<!-- LICENCIA -->
-## License
+<!-- LICENSE -->
+## Licencia
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuido bajo una licencia MIT. Ver `LICENSE.txt` para más información.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- CONTACTO -->
+<!-- CONTACT -->
 ## Contacto
 
 **Helena Alcolea Ruiz** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
