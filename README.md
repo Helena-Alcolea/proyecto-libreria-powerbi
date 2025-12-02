@@ -53,7 +53,7 @@ Distribuido bajo una licencia MIT. Ver `LICENSE.txt` para más información.
 
 **Helena Alcolea Ruiz** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
 
-Project Link: [https://github.com/Helena-Alcolea/Proyecto_Libreria](https://github.com/Helena-Alcolea/Proyecto_Libreria)
+Project Link: [https://github.com/Helena-Alcolea/proyecto-libreria-powerbi](https://github.com/Helena-Alcolea/proyecto-libreria-powerbi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
