@@ -42,11 +42,11 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/Proyecto_Libreria.svg?style=social
+[contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [contributors-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [forks-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/forks
-[stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [stars-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
 [issues-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/issues
